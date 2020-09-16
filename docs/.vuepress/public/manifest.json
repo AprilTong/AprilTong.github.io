@@ -1,14 +1,14 @@
 {
-  "name": "张三",
-  "short_name": "张三",
+  "name": "April",
+  "short_name": "April",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "张三的个人主页",
-  "theme_color": "blue",
+  "description": "April的个人主页",
+  "theme_color": "pink",
   "icons": [
     {
-      "src": "./photo.jpg",
+      "src": "./photo.jpeg",
       "sizes": "144x144",
       "type": "image/png"
     }

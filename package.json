@@ -1,5 +1,5 @@
 {
-  "name": "vuepressBlog",
+  "name": "aprilBlog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "vuepress": "^0.14.4"
+  },
+  "devDependencies": {
+    "vuepress-plugin-auto-sidebar": "^1.5.0"
   }
 }
